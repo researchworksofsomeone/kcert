@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Auditing the perception layer of rule-based expert systems without concept labels: Certified error bounds, drift alarms and shortcut repair"
+authors:
+  - family-names: "Sarkar"
+    given-names: "Satabarto"
+    orcid: "https://orcid.org/0009-0002-6855-3616"
+    affiliation: "Institute of Engineering and Management, University of Engineering and Management, Kolkata, India"
+  - family-names: "Paul"
+    given-names: "Prithwineel"
+    orcid: "https://orcid.org/0000-0001-8351-3407"
+    affiliation: "Institute of Engineering and Management, University of Engineering and Management, Kolkata, India"
